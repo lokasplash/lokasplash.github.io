@@ -1,0 +1,43 @@
+body{
+
+	color: black;
+
+}
+#bg-image{
+	position:absolute;
+	left: 0px;
+	top: 0px;
+	z-index: -1;
+	opacity: 0.5;
+	width: 100%;
+	/*height: 100%;*/
+}
+
+.navbar-brand img{
+	border: 3px solid #8AC007;
+	max-height: 100%;
+	margin: auto;
+	float: right;
+}
+
+.center{
+	margin: auto;
+	padding: 20px;
+	max-width:500px;
+	/*border: 2px gray solid;*/
+	border-radius: 2px;
+	background: white;
+}
+.center p{
+	margin:10px;
+	padding: 10px;
+	border: 2px green solid;
+	border-radius: 2px;
+	text-indent: 5%;
+
+}
+
+.center img{
+
+	width: 100%;
+}
